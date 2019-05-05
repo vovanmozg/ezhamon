@@ -1,0 +1,7 @@
+<?
+function yahoo_links($params)
+{
+return array("value" => rand(0,1000));
+}
+
+?>
